@@ -1,0 +1,12 @@
+D:\Development\Backend.Favour\Favour.Core\bin\Debug\net5.0\Favour.Core.deps.json
+D:\Development\Backend.Favour\Favour.Core\bin\Debug\net5.0\Favour.Core.dll
+D:\Development\Backend.Favour\Favour.Core\bin\Debug\net5.0\Favour.Core.pdb
+D:\Development\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.csproj.AssemblyReference.cache
+D:\Development\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.AssemblyInfoInputs.cache
+D:\Development\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.AssemblyInfo.cs
+D:\Development\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.csproj.CoreCompileInputs.cache
+D:\Development\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.dll
+D:\Development\Backend.Favour\Favour.Core\obj\Debug\net5.0\refint\Favour.Core.dll
+D:\Development\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.pdb
+D:\Development\Backend.Favour\Favour.Core\obj\Debug\net5.0\ref\Favour.Core.dll

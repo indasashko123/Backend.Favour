@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="MediatR" Version="10.0.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Favour.Core\Favour.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Common\Mapping\" />
+    <Folder Include="Entities\Accounts\" />
+    <Folder Include="Entities\Logins\" />
+    <Folder Include="Entities\AuthorConfigs\" />
+    <Folder Include="Entities\PayConfigs\" />
+    <Folder Include="Entities\Likes\" />
+    <Folder Include="Entities\Messages\" />
+    <Folder Include="Entities\Subscribes\" />
+  </ItemGroup>
+
+</Project>
