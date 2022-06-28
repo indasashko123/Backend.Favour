@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WM/BjOkAsznNtNcK6EGoaR/M+9k9ngNXF2pzIixtasMsa6dBYo+DPfp9+gUsdgQyvmde9CKW9jU3kOF7HZ/YcQ==",
+  "dgSpecHash": "6FrLQbhXY0vZC+haRMTvoqAqcsXpT+7hW479AHEUCZEdJ4iLQKOCBnGAOoKB7ta4x3yJY3hDWEnXpDgYHKpzog==",
   "success": true,
-  "projectFilePath": "D:\\Development\\Backend.Favour\\Favour.Core\\Favour.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\123\\Documents\\GitHub\\Backend.Favour\\Favour.Core\\Favour.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\123\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\123\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\123\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vafweAedexwcWM530dIeibUoLFG4tAMbGjRRbhq34qBg13CW0p29jor+MAfOkRYjkWIj8LIKjC4bsxx7TAC65Q==",
+  "dgSpecHash": "KdTucYTCwggubuxmqEqff2r6Uh6bx40Vvm/psuCMbrYAHtMSBxSHzFA9Uunb/ljde5Rra815/2H6XyP+d3xfPA==",
   "success": true,
-  "projectFilePath": "D:\\Development\\Backend.Favour\\Favour.SideAPIService\\Favour.SideAPIService.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\123\\Documents\\GitHub\\Backend.Favour\\Favour.SideAPIService\\Favour.SideAPIService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\123\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\123\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\123\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
