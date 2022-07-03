@@ -1,0 +1,15 @@
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\bin\Debug\net6.0\Favour.Application.deps.json
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\bin\Debug\net6.0\Favour.Application.dll
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\bin\Debug\net6.0\Favour.Application.pdb
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\bin\Debug\net6.0\Favour.Core.dll
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\bin\Debug\net6.0\Favour.Core.pdb
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\obj\Debug\net6.0\Favour.Application.csproj.AssemblyReference.cache
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\obj\Debug\net6.0\Favour.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\obj\Debug\net6.0\Favour.Application.AssemblyInfoInputs.cache
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\obj\Debug\net6.0\Favour.Application.AssemblyInfo.cs
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\obj\Debug\net6.0\Favour.Application.csproj.CoreCompileInputs.cache
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\obj\Debug\net6.0\Favour.Application.csproj.CopyComplete
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\obj\Debug\net6.0\Favour.Application.dll
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\obj\Debug\net6.0\refint\Favour.Application.dll
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\obj\Debug\net6.0\Favour.Application.pdb
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Application\obj\Debug\net6.0\ref\Favour.Application.dll

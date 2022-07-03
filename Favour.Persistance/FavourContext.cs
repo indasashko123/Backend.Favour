@@ -10,7 +10,6 @@ namespace Favour.Persistance
     public class FavourContext : DbContext, IFavourContext
     {
         public DbSet<Account> Accounts { get; set; }
-        public DbSet<Login> Logins { get; set; }
         public DbSet<AuthorConfig> AuthorConfigs { get; set; }
         public DbSet<PayConfig> PayConfigs { get; set; }
         public DbSet<Like> Likes { get; set; }

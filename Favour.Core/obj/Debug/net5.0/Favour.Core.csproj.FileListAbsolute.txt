@@ -10,3 +10,15 @@ D:\Development\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.dll
 D:\Development\Backend.Favour\Favour.Core\obj\Debug\net5.0\refint\Favour.Core.dll
 D:\Development\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.pdb
 D:\Development\Backend.Favour\Favour.Core\obj\Debug\net5.0\ref\Favour.Core.dll
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Core\bin\Debug\net5.0\Favour.Core.deps.json
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Core\bin\Debug\net5.0\Favour.Core.dll
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Core\bin\Debug\net5.0\Favour.Core.pdb
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.csproj.AssemblyReference.cache
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.AssemblyInfoInputs.cache
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.AssemblyInfo.cs
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.csproj.CoreCompileInputs.cache
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.dll
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Core\obj\Debug\net5.0\refint\Favour.Core.dll
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Core\obj\Debug\net5.0\Favour.Core.pdb
+C:\Users\123\Documents\GitHub\Backend.Favour\Favour.Core\obj\Debug\net5.0\ref\Favour.Core.dll

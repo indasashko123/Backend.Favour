@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6FrLQbhXY0vZC+haRMTvoqAqcsXpT+7hW479AHEUCZEdJ4iLQKOCBnGAOoKB7ta4x3yJY3hDWEnXpDgYHKpzog==",
+  "dgSpecHash": "KXzEgVmr6Xtcog3ir74fu6WGOe4UCylXqzeFpGZI3Of5sDU66jmm64rK212TKi/u4oAbtDaNhB7naLeP6Qywzw==",
   "success": true,
   "projectFilePath": "C:\\Users\\123\\Documents\\GitHub\\Backend.Favour\\Favour.Core\\Favour.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\123\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\123\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\123\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\123\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\123\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.0\\microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "C:\\Users\\123\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\123\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

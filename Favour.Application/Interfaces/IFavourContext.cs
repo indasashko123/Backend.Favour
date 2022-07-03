@@ -10,7 +10,6 @@ namespace Favour.Application.Interfaces
     public interface IFavourContext
     {
         DbSet<Account> Accounts { get; set; }
-        DbSet<Login> Logins { get; set; }
         DbSet<AuthorConfig> AuthorConfigs { get; set; }
         DbSet<PayConfig> PayConfigs { get; set; }
         DbSet<Like> Likes { get; set; }
